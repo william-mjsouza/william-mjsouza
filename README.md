@@ -1,64 +1,69 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+William+Souza;)](https://git.io/typing-svg)
+<h1 align="center">Olá, eu sou o William Souza 👋</h1>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web+Fullstack;Apaixonado+por+tecnologia+e+backend" />
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 💻 Desenvolvedor focado em soluções web modernas
+- 📚 Atualmente aprofundando em **NestJS**, **TypeScript** e bancos relacionais
+- 🌐 Amante do ecossistema **JavaScript/TypeScript**, com experiência sólida em **Python/Django**
+- 🧠 Estudando também **Java** e **C/C++** por paixão à lógica
+
+---
+
+### 💼 Tecnologias que domino
+
+<div align="center">
+
+#### 💻 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp" />
+
+#### 🌐 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind" />
+
+#### 🛢️ Banco de dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
+
+</div>
+
+---
+
+### 📊 Estatísticas
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=william-mjsouza&show_icons=true&theme=transparent"/> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-mjsouza&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-mjsouza&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-<br/>
-<div align="center">  
-<a href="https://www.linkedin.com/in/williammjsouza/" target="_blank" rel="noopener noreferrer""><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: william.ws2121@gmail.com?subject=Olá William! Vi seu GitHub" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="adrian_michael_araujo@hotmail.com" /></a>
 
-</div>
-<br/>
+---
 
-<h3 align="center" style="font-size:50px">👨‍💻 I work with:</h3>
+### 🌐 Contato
 
-<br/>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python-logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c-logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="28" alt="django-logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="java-script-logo"  />
-  <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="28" alt="azure-logo"  />
-  <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="taildwind-logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5-logo"  />
-  <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="30" alt="css3-logo"  />
-  <img width="12" />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap-logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma-logo"  />
-  <img width="12" />
-  
+  <a href="https://www.linkedin.com/in/williammjsouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:william.ws2121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/>
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{william-mjsouza}/count.svg" /></p> 
-<br></div>
-  
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
+<p align="center"><b>Visitantes no perfil:</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/william-mjsouza/count.svg" /></p> 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=footer"/>
