@@ -11,9 +11,9 @@
 ### 🚀 Sobre mim
 
 - 💻 Desenvolvedor focado em soluções web modernas
-- 📚 Atualmente aprofundando em **NestJS**, **TypeScript** e bancos relacionais
-- 🌐 Amante do ecossistema **JavaScript/TypeScript**, com experiência sólida em **Python/Django**
-- 🧠 Estudando também **Java** e **C/C++** por paixão à lógica
+- 📚 Atualmente aprofundando em **NestJS** e bancos relacionais
+- 🌐 Desenvolvo para web usando o ecossistema **JavaScript/TypeScript**, com experiência sólida em **Python/Django**
+- 🧠 Possuo profundo conhecimento de POO, lógica e estrutura de dados em **Java** e **C/C++**
 
 ---
 
@@ -22,7 +22,7 @@
 <div align="center">
 
 #### 💻 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs" />
+<img src="https://nestjs.com/img/logo-small.svg" height="30" alt="nestjs" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java" />
@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwind" />
 
 #### 🛢️ Banco de dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
